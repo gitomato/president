@@ -1,0 +1,12 @@
+{
+    "name": "gitomato/president",
+    "require": {
+        "react/promise": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Thomas",
+            "email": "gmomato@gmail.com"
+        }
+    ]
+}
